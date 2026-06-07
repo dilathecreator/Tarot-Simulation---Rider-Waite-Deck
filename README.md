@@ -1,4 +1,4 @@
-# 🔮 Mistik Tarot Simülasyonu (TarotSim)
+# 🔮 Mistik Tarot Simülasyonu 
 
 Geleneksel ezoterik sembolizm ile modern yazılım mühendisliği prensiplerini kesişim noktasında buluşturan, yüksek taşınabilirliğe (portability) sahip, full-stack mimari tabanlı bir dijital tarot rezonans ekosistemidir. 
 
